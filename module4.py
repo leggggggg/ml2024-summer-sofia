@@ -15,7 +15,7 @@ for i in range(N):
 # Read the N Numbers
 print('The ' + str(N) + ' numbers you entered:', numbers)
 
-# Read input X (integer)
+# Ask for input X
 X = int(input("Please enter an integer X: "))
 
 # Check if X is in the list of numbers and output the result
